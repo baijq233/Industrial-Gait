@@ -59,7 +59,7 @@ Because the dataset was collected in a real-world access-control environment, so
 </p>
 
 <p align="center">
-  <em>Sixty consecutive silhouette frames from the 000° view. Click any image to view it at full resolution.</em>
+  <em>Sixty consecutive silhouette frames from the 000 view. Click any image to view it at full resolution.</em>
 </p>
 
 ### View 180 — 60 Frames
@@ -143,7 +143,7 @@ Because the dataset was collected in a real-world access-control environment, so
 </p>
 
 <p align="center">
-  <em>Sixty consecutive human silhouette frames captured from the 180° view. Click any image to view it at full resolution.</em>
+  <em>Sixty consecutive human silhouette frames captured from the 180 view. Click any image to view it at full resolution.</em>
 </p>
 
 
