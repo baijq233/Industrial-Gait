@@ -59,32 +59,6 @@ The released data include:
   <em>Sixty consecutive silhouette frames from the 000° view. Click any image to view it at full resolution.</em>
 </p>
 
-
-## Directory Structure
-
-The PNG silhouette images and JSON keypoint annotations are stored directly in the corresponding view folders.
-
-```text
-Industrial-Gait/
-├── README.md
-├── 000/
-│   ├── frame_0000_src_0118.png
-│   ├── frame_0000_src_0118.json
-│   ├── frame_0001_src_0119.png
-│   ├── frame_0001_src_0119.json
-│   ├── frame_0002_src_0120.png
-│   ├── frame_0002_src_0120.json
-│   └── ...
-└── 180/
-    ├── frame_0000_src_0041.png
-    ├── frame_0000_src_0041.json
-    ├── frame_0001_src_0042.png
-    ├── frame_0001_src_0042.json
-    ├── frame_0002_src_0043.png
-    ├── frame_0002_src_0043.json
-    └── ...
-```
-
 PNG and JSON files with the same frame identifier correspond to the same frame.
 
 For example:
