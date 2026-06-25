@@ -12,9 +12,12 @@ The released data include:
 
 * Human silhouette images in PNG format
 * Corresponding human keypoint annotations in JSON format
-* Walking sequences from the `000°` and `180°` directions
+* Walking sequences from the 000 and 180 directions
 * Original directory and temporal sequence organization
 * Complete processed silhouette and keypoint data
+## Data Characteristics and Limitations
+
+Because the dataset was collected in a real-world access-control environment, some silhouette frames may be incomplete or imperfectly segmented. These cases can result from turnstile occlusion, partial body truncation at the image boundary, rapid motion, or segmentation errors. Such frames reflect the practical challenges of gait recognition in real-world scenarios.
 
 ## Sample Silhouette Sequence
 
@@ -58,6 +61,91 @@ The released data include:
 <p align="center">
   <em>Sixty consecutive silhouette frames from the 000° view. Click any image to view it at full resolution.</em>
 </p>
+
+### View 180 — 60 Frames
+
+<p align="left">
+  <a href="180/frame_0000_src_0041.png"><img src="180/frame_0000_src_0041.png" width="72" alt="View 180 frame 0000"></a>
+  <a href="180/frame_0001_src_0042.png"><img src="180/frame_0001_src_0042.png" width="72" alt="View 180 frame 0001"></a>
+  <a href="180/frame_0002_src_0043.png"><img src="180/frame_0002_src_0043.png" width="72" alt="View 180 frame 0002"></a>
+  <a href="180/frame_0003_src_0044.png"><img src="180/frame_0003_src_0044.png" width="72" alt="View 180 frame 0003"></a>
+  <a href="180/frame_0004_src_0045.png"><img src="180/frame_0004_src_0045.png" width="72" alt="View 180 frame 0004"></a>
+  <a href="180/frame_0005_src_0046.png"><img src="180/frame_0005_src_0046.png" width="72" alt="View 180 frame 0005"></a>
+  <a href="180/frame_0006_src_0047.png"><img src="180/frame_0006_src_0047.png" width="72" alt="View 180 frame 0006"></a>
+  <a href="180/frame_0007_src_0048.png"><img src="180/frame_0007_src_0048.png" width="72" alt="View 180 frame 0007"></a>
+  <a href="180/frame_0008_src_0049.png"><img src="180/frame_0008_src_0049.png" width="72" alt="View 180 frame 0008"></a>
+  <a href="180/frame_0009_src_0050.png"><img src="180/frame_0009_src_0050.png" width="72" alt="View 180 frame 0009"></a>
+</p>
+
+<p align="left">
+  <a href="180/frame_0010_src_0051.png"><img src="180/frame_0010_src_0051.png" width="72" alt="View 180 frame 0010"></a>
+  <a href="180/frame_0011_src_0052.png"><img src="180/frame_0011_src_0052.png" width="72" alt="View 180 frame 0011"></a>
+  <a href="180/frame_0012_src_0053.png"><img src="180/frame_0012_src_0053.png" width="72" alt="View 180 frame 0012"></a>
+  <a href="180/frame_0013_src_0054.png"><img src="180/frame_0013_src_0054.png" width="72" alt="View 180 frame 0013"></a>
+  <a href="180/frame_0014_src_0055.png"><img src="180/frame_0014_src_0055.png" width="72" alt="View 180 frame 0014"></a>
+  <a href="180/frame_0015_src_0056.png"><img src="180/frame_0015_src_0056.png" width="72" alt="View 180 frame 0015"></a>
+  <a href="180/frame_0016_src_0057.png"><img src="180/frame_0016_src_0057.png" width="72" alt="View 180 frame 0016"></a>
+  <a href="180/frame_0017_src_0058.png"><img src="180/frame_0017_src_0058.png" width="72" alt="View 180 frame 0017"></a>
+  <a href="180/frame_0018_src_0059.png"><img src="180/frame_0018_src_0059.png" width="72" alt="View 180 frame 0018"></a>
+  <a href="180/frame_0019_src_0060.png"><img src="180/frame_0019_src_0060.png" width="72" alt="View 180 frame 0019"></a>
+</p>
+
+<p align="left">
+  <a href="180/frame_0020_src_0061.png"><img src="180/frame_0020_src_0061.png" width="72" alt="View 180 frame 0020"></a>
+  <a href="180/frame_0021_src_0062.png"><img src="180/frame_0021_src_0062.png" width="72" alt="View 180 frame 0021"></a>
+  <a href="180/frame_0022_src_0063.png"><img src="180/frame_0022_src_0063.png" width="72" alt="View 180 frame 0022"></a>
+  <a href="180/frame_0023_src_0064.png"><img src="180/frame_0023_src_0064.png" width="72" alt="View 180 frame 0023"></a>
+  <a href="180/frame_0024_src_0065.png"><img src="180/frame_0024_src_0065.png" width="72" alt="View 180 frame 0024"></a>
+  <a href="180/frame_0025_src_0066.png"><img src="180/frame_0025_src_0066.png" width="72" alt="View 180 frame 0025"></a>
+  <a href="180/frame_0026_src_0067.png"><img src="180/frame_0026_src_0067.png" width="72" alt="View 180 frame 0026"></a>
+  <a href="180/frame_0027_src_0068.png"><img src="180/frame_0027_src_0068.png" width="72" alt="View 180 frame 0027"></a>
+  <a href="180/frame_0028_src_0069.png"><img src="180/frame_0028_src_0069.png" width="72" alt="View 180 frame 0028"></a>
+  <a href="180/frame_0029_src_0070.png"><img src="180/frame_0029_src_0070.png" width="72" alt="View 180 frame 0029"></a>
+</p>
+
+<p align="left">
+  <a href="180/frame_0030_src_0071.png"><img src="180/frame_0030_src_0071.png" width="72" alt="View 180 frame 0030"></a>
+  <a href="180/frame_0031_src_0072.png"><img src="180/frame_0031_src_0072.png" width="72" alt="View 180 frame 0031"></a>
+  <a href="180/frame_0032_src_0073.png"><img src="180/frame_0032_src_0073.png" width="72" alt="View 180 frame 0032"></a>
+  <a href="180/frame_0033_src_0074.png"><img src="180/frame_0033_src_0074.png" width="72" alt="View 180 frame 0033"></a>
+  <a href="180/frame_0034_src_0075.png"><img src="180/frame_0034_src_0075.png" width="72" alt="View 180 frame 0034"></a>
+  <a href="180/frame_0035_src_0076.png"><img src="180/frame_0035_src_0076.png" width="72" alt="View 180 frame 0035"></a>
+  <a href="180/frame_0036_src_0077.png"><img src="180/frame_0036_src_0077.png" width="72" alt="View 180 frame 0036"></a>
+  <a href="180/frame_0037_src_0078.png"><img src="180/frame_0037_src_0078.png" width="72" alt="View 180 frame 0037"></a>
+  <a href="180/frame_0038_src_0079.png"><img src="180/frame_0038_src_0079.png" width="72" alt="View 180 frame 0038"></a>
+  <a href="180/frame_0039_src_0080.png"><img src="180/frame_0039_src_0080.png" width="72" alt="View 180 frame 0039"></a>
+</p>
+
+<p align="left">
+  <a href="180/frame_0040_src_0081.png"><img src="180/frame_0040_src_0081.png" width="72" alt="View 180 frame 0040"></a>
+  <a href="180/frame_0041_src_0082.png"><img src="180/frame_0041_src_0082.png" width="72" alt="View 180 frame 0041"></a>
+  <a href="180/frame_0042_src_0083.png"><img src="180/frame_0042_src_0083.png" width="72" alt="View 180 frame 0042"></a>
+  <a href="180/frame_0043_src_0084.png"><img src="180/frame_0043_src_0084.png" width="72" alt="View 180 frame 0043"></a>
+  <a href="180/frame_0044_src_0085.png"><img src="180/frame_0044_src_0085.png" width="72" alt="View 180 frame 0044"></a>
+  <a href="180/frame_0045_src_0086.png"><img src="180/frame_0045_src_0086.png" width="72" alt="View 180 frame 0045"></a>
+  <a href="180/frame_0046_src_0087.png"><img src="180/frame_0046_src_0087.png" width="72" alt="View 180 frame 0046"></a>
+  <a href="180/frame_0047_src_0088.png"><img src="180/frame_0047_src_0088.png" width="72" alt="View 180 frame 0047"></a>
+  <a href="180/frame_0048_src_0089.png"><img src="180/frame_0048_src_0089.png" width="72" alt="View 180 frame 0048"></a>
+  <a href="180/frame_0049_src_0090.png"><img src="180/frame_0049_src_0090.png" width="72" alt="View 180 frame 0049"></a>
+</p>
+
+<p align="left">
+  <a href="180/frame_0050_src_0091.png"><img src="180/frame_0050_src_0091.png" width="72" alt="View 180 frame 0050"></a>
+  <a href="180/frame_0051_src_0092.png"><img src="180/frame_0051_src_0092.png" width="72" alt="View 180 frame 0051"></a>
+  <a href="180/frame_0052_src_0093.png"><img src="180/frame_0052_src_0093.png" width="72" alt="View 180 frame 0052"></a>
+  <a href="180/frame_0053_src_0094.png"><img src="180/frame_0053_src_0094.png" width="72" alt="View 180 frame 0053"></a>
+  <a href="180/frame_0054_src_0095.png"><img src="180/frame_0054_src_0095.png" width="72" alt="View 180 frame 0054"></a>
+  <a href="180/frame_0055_src_0096.png"><img src="180/frame_0055_src_0096.png" width="72" alt="View 180 frame 0055"></a>
+  <a href="180/frame_0056_src_0097.png"><img src="180/frame_0056_src_0097.png" width="72" alt="View 180 frame 0056"></a>
+  <a href="180/frame_0057_src_0098.png"><img src="180/frame_0057_src_0098.png" width="72" alt="View 180 frame 0057"></a>
+  <a href="180/frame_0058_src_0099.png"><img src="180/frame_0058_src_0099.png" width="72" alt="View 180 frame 0058"></a>
+  <a href="180/frame_0059_src_0100.png"><img src="180/frame_0059_src_0100.png" width="72" alt="View 180 frame 0059"></a>
+</p>
+
+<p align="center">
+  <em>Sixty consecutive human silhouette frames captured from the 180° view. Click any image to view it at full resolution.</em>
+</p>
+
 
 PNG and JSON files with the same frame identifier correspond to the same frame.
 
