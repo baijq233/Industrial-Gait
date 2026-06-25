@@ -2,7 +2,7 @@
 
 This repository provides the processed Industrial-Gait dataset collected in a real-world access-control environment.
 
-The released dataset contains human silhouette sequences and corresponding human keypoint annotations from two walking directions: `000°` and `180°`.
+The released dataset contains human silhouette sequences and corresponding human keypoint annotations from two walking directions: 000 and 180.
 
 Original RGB images are not included.
 
