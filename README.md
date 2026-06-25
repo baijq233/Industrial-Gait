@@ -18,9 +18,8 @@ The released data include:
 
 ## Sample Silhouette Sequence
 
-### View 000° — 60 Frames
-
-<p align="center">
+### View 000 — 60 Frames
+<p align="left">
   <a href="000/frame_0000_src_0118.png"><img src="000/frame_0000_src_0118.png" width="72" alt="View 000 frame 0000"></a>
   <a href="000/frame_0001_src_0119.png"><img src="000/frame_0001_src_0119.png" width="72" alt="View 000 frame 0001"></a>
   <a href="000/frame_0002_src_0120.png"><img src="000/frame_0002_src_0120.png" width="72" alt="View 000 frame 0002"></a>
@@ -31,9 +30,20 @@ The released data include:
   <a href="000/frame_0007_src_0125.png"><img src="000/frame_0007_src_0125.png" width="72" alt="View 000 frame 0007"></a>
   <a href="000/frame_0008_src_0126.png"><img src="000/frame_0008_src_0126.png" width="72" alt="View 000 frame 0008"></a>
   <a href="000/frame_0009_src_0127.png"><img src="000/frame_0009_src_0127.png" width="72" alt="View 000 frame 0009"></a>
-  <br>
+</p>
 
-<a href="000/frame_0010_src_0128.png"><img src="000/frame_0010_src_0128.png" width="72" alt="View 000 frame 0010"></a> <a href="000/frame_0011_src_0129.png"><img src="000/frame_0011_src_0129.png" width="72" alt="View 000 frame 0011"></a> <a href="000/frame_0012_src_0130.png"><img src="000/frame_0012_src_0130.png" width="72" alt="View 000 frame 0012"></a> <a href="000/frame_0013_src_0131.png"><img src="000/frame_0013_src_0131.png" width="72" alt="View 000 frame 0013"></a> <a href="000/frame_0014_src_0132.png"><img src="000/frame_0014_src_0132.png" width="72" alt="View 000 frame 0014"></a> <a href="000/frame_0015_src_0133.png"><img src="000/frame_0015_src_0133.png" width="72" alt="View 000 frame 0015"></a> <a href="000/frame_0016_src_0134.png"><img src="000/frame_0016_src_0134.png" width="72" alt="View 000 frame 0016"></a> <a href="000/frame_0017_src_0135.png"><img src="000/frame_0017_src_0135.png" width="72" alt="View 000 frame 0017"></a> <a href="000/frame_0018_src_0136.png"><img src="000/frame_0018_src_0136.png" width="72" alt="View 000 frame 0018"></a> <a href="000/frame_0019_src_0137.png"><img src="000/frame_0019_src_0137.png" width="72" alt="View 000 frame 0019"></a> <br>
+<p align="left">
+  <a href="000/frame_0010_src_0128.png"><img src="000/frame_0010_src_0128.png" width="72" alt="View 000 frame 0010"></a>
+  <a href="000/frame_0011_src_0129.png"><img src="000/frame_0011_src_0129.png" width="72" alt="View 000 frame 0011"></a>
+  <a href="000/frame_0012_src_0130.png"><img src="000/frame_0012_src_0130.png" width="72" alt="View 000 frame 0012"></a>
+  <a href="000/frame_0013_src_0131.png"><img src="000/frame_0013_src_0131.png" width="72" alt="View 000 frame 0013"></a>
+  <a href="000/frame_0014_src_0132.png"><img src="000/frame_0014_src_0132.png" width="72" alt="View 000 frame 0014"></a>
+  <a href="000/frame_0015_src_0133.png"><img src="000/frame_0015_src_0133.png" width="72" alt="View 000 frame 0015"></a>
+  <a href="000/frame_0016_src_0134.png"><img src="000/frame_0016_src_0134.png" width="72" alt="View 000 frame 0016"></a>
+  <a href="000/frame_0017_src_0135.png"><img src="000/frame_0017_src_0135.png" width="72" alt="View 000 frame 0017"></a>
+  <a href="000/frame_0018_src_0136.png"><img src="000/frame_0018_src_0136.png" width="72" alt="View 000 frame 0018"></a>
+  <a href="000/frame_0019_src_0137.png"><img src="000/frame_0019_src_0137.png" width="72" alt="View 000 frame 0019"></a>
+</p>
 
 <a href="000/frame_0020_src_0138.png"><img src="000/frame_0020_src_0138.png" width="72" alt="View 000 frame 0020"></a> <a href="000/frame_0021_src_0139.png"><img src="000/frame_0021_src_0139.png" width="72" alt="View 000 frame 0021"></a> <a href="000/frame_0022_src_0140.png"><img src="000/frame_0022_src_0140.png" width="72" alt="View 000 frame 0022"></a> <a href="000/frame_0023_src_0141.png"><img src="000/frame_0023_src_0141.png" width="72" alt="View 000 frame 0023"></a> <a href="000/frame_0024_src_0142.png"><img src="000/frame_0024_src_0142.png" width="72" alt="View 000 frame 0024"></a> <a href="000/frame_0025_src_0143.png"><img src="000/frame_0025_src_0143.png" width="72" alt="View 000 frame 0025"></a> <a href="000/frame_0026_src_0144.png"><img src="000/frame_0026_src_0144.png" width="72" alt="View 000 frame 0026"></a> <a href="000/frame_0027_src_0145.png"><img src="000/frame_0027_src_0145.png" width="72" alt="View 000 frame 0027"></a> <a href="000/frame_0028_src_0146.png"><img src="000/frame_0028_src_0146.png" width="72" alt="View 000 frame 0028"></a> <a href="000/frame_0029_src_0147.png"><img src="000/frame_0029_src_0147.png" width="72" alt="View 000 frame 0029"></a> <br>
 
